@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "//kentung52.github.io/1091-208410190-robofriends/static/css/main.28accb84.chunk.css",
+    "main.js": "//kentung52.github.io/1091-208410190-robofriends/static/js/main.20321691.chunk.js",
+    "main.js.map": "//kentung52.github.io/1091-208410190-robofriends/static/js/main.20321691.chunk.js.map",
+    "runtime-main.js": "//kentung52.github.io/1091-208410190-robofriends/static/js/runtime-main.4b3fa047.js",
+    "runtime-main.js.map": "//kentung52.github.io/1091-208410190-robofriends/static/js/runtime-main.4b3fa047.js.map",
+    "static/css/2.3c03f26f.chunk.css": "//kentung52.github.io/1091-208410190-robofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "//kentung52.github.io/1091-208410190-robofriends/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "//kentung52.github.io/1091-208410190-robofriends/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "//kentung52.github.io/1091-208410190-robofriends/index.html",
+    "precache-manifest.996111bf3ae8309bd5c79e5897650d7e.js": "//kentung52.github.io/1091-208410190-robofriends/precache-manifest.996111bf3ae8309bd5c79e5897650d7e.js",
+    "service-worker.js": "//kentung52.github.io/1091-208410190-robofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "//kentung52.github.io/1091-208410190-robofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.28accb84.chunk.css.map": "//kentung52.github.io/1091-208410190-robofriends/static/css/main.28accb84.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "//kentung52.github.io/1091-208410190-robofriends/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "//kentung52.github.io/1091-208410190-robofriends/static/media/SEGA.82e09f78.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b3fa047.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.28accb84.chunk.css",
+    "static/js/main.20321691.chunk.js"
+  ]
+}
